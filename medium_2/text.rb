@@ -1,3 +1,6 @@
+require 'pry'
+system 'clear'
+
 class Text
   def initialize(text)
     @text = text
